@@ -4,6 +4,7 @@ url: http://js.docs.cronje.me
 branding:
   title: Javascript Dev | cronje.me
   label: WIKI
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me

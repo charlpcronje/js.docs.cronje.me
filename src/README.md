@@ -16,7 +16,7 @@ edit:
   label: Edit on GitHub
 editor:
   enabled: false
-favicon: favicon.png
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
@@ -48,3 +48,8 @@ footer:
 01010000  01001000  01010000  00101110  01100100  01101111  01100011  01110011  00101110 
 01000011  01010010  01001111  01001110  01101010  01100101  00101110  01001101  01000101
 ```
+
+## Node.js, Express & Notion
+
+[Create Node.js Express API Interfacing with Notion API](expressNotionAPI.md)
+
