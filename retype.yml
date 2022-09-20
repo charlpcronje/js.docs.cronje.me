@@ -1,10 +1,9 @@
 input: src
 output: public
-url: http://js.docs.cronje.me
+url: http://dns.docs.cronje.me
 branding:
-  title: Javascript Dev | cronje.me
-  label: WIKI
-favicon: ./favicon.png
+  title: CRONje.ME | JavaScript Development
+  label: DNS
 links:
 - text: Dashboard
   link: https://nav.cronje.me
