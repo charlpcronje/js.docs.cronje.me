@@ -51,6 +51,9 @@ footer:
 
 ## Node.js, Express & Notion
 
-[Create Node.js Koa API Interfacing with Notion API](koaNodeNotionAPI.md)
-[Vue 3 and Nuxt 3](vueNuxt.md)
+- [Create Node.js Koa API Interfacing with Notion API](koaNodeNotionAPI.md)
+
+## Vue 3 and Nuxt 3
+
+- [Vue 3 and Nuxt 3](vueNuxt.md)
 
