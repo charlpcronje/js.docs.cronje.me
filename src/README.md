@@ -7,7 +7,7 @@ authors:
     email: charl@cronje.me
     link: https://blog.cronje.me
     avatar: https://assets.cronje.me/avatars/darker.jpg
-date: 2022-03-07T16:58
+date: 2022-09-15T16:58
 description: JavaScript & Node.js Development for CRONje.ME
 edit:
   repo: "https://github.com/charlpcronje/js.docs.cronje.me/edit/"
@@ -45,11 +45,12 @@ footer:
  | |_| |___) | (_| | (_) | (__\__ \| |___|  _ <| |_| | |\  || |  __/_| |  | | |___ 
   \___/|____(_)__,_|\___/ \___|___(_)____|_| \_\\___/|_| \_|/ |\___(_)_|  |_|_____|
                                                           |__/                                   
-01010000  01001000  01010000  00101110  01100100  01101111  01100011  01110011  00101110 
-01000011  01010010  01001111  01001110  01101010  01100101  00101110  01001101  01000101
+01010000 01001000 01010000 00101110 01100100 01101111  01100011  01110011  00101110 
+01000011 01010010 01001111 01001110 01101010 01100101  00101110  01001101  01000101
 ```
 
 ## Node.js, Express & Notion
 
-[Create Node.js Express API Interfacing with Notion API](expressNotionAPI.md)
+[Create Node.js Koa API Interfacing with Notion API](koaNodeNotionAPI.md)
+[Vue 3 and Nuxt 3](vueNuxt.md)
 
