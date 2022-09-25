@@ -1,4 +1,14 @@
-# TypeScript Types
+---
+title: TypeScript Types | CRONje.ME
+label: TypeScript Types
+order: 70
+authors:
+  - name: Charl Cronje
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
+---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
 ## Built in types
 
@@ -182,14 +192,6 @@ let user: [number, string] = [1, "Steve"];
 user[1] = user[1].concat(" Jobs"); 
 console.log(user); //Output: [1, 'Steve Jobs']
 ```
-
-
----
-created: 2022-09-24T09:51:08 (UTC +02:00)
-tags: [enum,typescript,typescript tutorials,free typescript tutorials,online typescript tutorial,Free typescript Tutorials for beginners,learn typescript,learn nodejs,learn,typescript for beginners,typescript tutorials,typescript Basics,typescript step by step,learn typescript from scratch,what is typescript]
-source: https://www.tutorialsteacher.com/typescript/typescript-enum
-author: 
----
 
 ## `Enum` TypeScript `Type` 
 
@@ -436,14 +438,6 @@ var PrintMedia;
 
 So, both the following mappings are true to enums: `name` -> `value`, and `value` -> `name`.
  
-
- ---
-created: 2022-09-24T09:56:12 (UTC +02:00)
-tags: [union,union type,typescript,typescript tutorials,free typescript tutorials,online typescript tutorial,Free typescript Tutorials for beginners,learn typescript,learn nodejs,learn,typescript for beginners,typescript tutorials,typescript Basics,typescript step by step,learn typescript from scratch,what is typescript]
-source: https://www.tutorialsteacher.com/typescript/typescript-union
-author: 
----
-
 # Union Type in TypeScript
 
 > ## Excerpt
@@ -497,14 +491,6 @@ displayType(true); //Compiler Error: Argument of type 'true' is not assignable t
 ```
 
 In the above example, parameter `code` is of union type. So, you can pass either a string value or a number value. If you pass any other type of value e.g. boolean, then the compiler will give an error.
-
-
----
-created: 2022-09-24T09:57:31 (UTC +02:00)
-tags: [void,typescript,typescript tutorials,free typescript tutorial,online typescript tutorials,typescript for beginners,learn typescript,learn,typescript tutorials,typescript Basics,typescript step by step,learn typescript from scratch,what is typescript]
-source: https://www.tutorialsteacher.com/typescript/typescript-void
-author: 
----
 
 ## `Void` TypeScript `Type`
 

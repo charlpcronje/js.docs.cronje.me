@@ -64,9 +64,10 @@ footer:
 - [TypeScript Types](./typeScript/types.md)
 - [TypeScript Functions](./typeScript/functions.md)
 - [TypeScript Objects](./typeScript/objects.md)
-- [Advanced Types](./typeScript/AdvancedTypes.md)
+- [TypeScript Advanced Types](./typeScript/AdvancedTypes.md)
 - [TypeScript Generics](./typeScript/generics.md)
 - [TypeScript Type Guards](./typeScript/typeGuards.md)
+- [TypeScript Type Predicates](./typeScript/typePredicates.md)
 
 ## Node.js, Express & Notion
 

@@ -1,4 +1,14 @@
-# TypeScript Type Guards
+---
+title: TypeScript Type Guards | CRONje.ME
+label: TypeScript Type Guards
+order: 20
+authors:
+  - name: Charl Cronje
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
+---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
 This page lists some of the more advanced ways in which you can model types, it works in tandem with the `Utility Types` doc which includes types which are included in TypeScript and available globally.
 
