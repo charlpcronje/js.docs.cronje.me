@@ -49,11 +49,25 @@ footer:
 01000011 01010010 01001111 01001110 01101010 01100101  00101110  01001101  01000101
 ```
 
-## Node.js, Express & Notion
-
-- [Create Node.js Koa API Interfacing with Notion API](koaNodeNotionAPI.md)
-
 ## Vue 3 and Nuxt 3
 
-- [Vue 3 and Nuxt 3](vueNuxt.md)
+- [Vue 3 and Nuxt 3](./vue/nuxt.md)
 
+## Koa CORS - NPM
+
+- [Koa CORS - NPM](./koa-cors-npm.md)
+
+### TypeScript [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+
+- [Configure Compiler](./typeScript/setup.md)
+- [Debugging TypeScript](./typeScript/debug.md)
+- [TypeScript Types](./typeScript/types.md)
+- [TypeScript Functions](./typeScript/functions.md)
+- [TypeScript Objects](./typeScript/objects.md)
+- [Advanced Types](./typeScript/AdvancedTypes.md)
+- [TypeScript Generics](./typeScript/generics.md)
+- [TypeScript Type Guards](./typeScript/typeGuards.md)
+
+## Node.js, Express & Notion
+
+- [Create Node.js Koa API Interfacing with Notion API](./koaNodeNotionAPI.md)
