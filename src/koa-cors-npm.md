@@ -2,16 +2,16 @@
 created: 2022-09-13T06:16:37 (UTC +02:00)
 tags: [cors,koa,koajs]
 source: https://www.npmjs.com/package/koa-cors
-author: 
+author:  Charl Cronje
 ---
 
-# koa-cors - npm
+# Koa CORS - NPM
 
 > ## Excerpt
 > CORS middleware for Koa. Latest version: 0.0.16, last published: 7 years ago. Start using koa-cors in your project by running `npm i koa-cors`. There are 253 other projects in the npm registry using koa-cors.
 
 ---
-# koa-cors
+# Koa CORS
 
 CORS middleware for Koa
 
