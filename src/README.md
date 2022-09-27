@@ -57,7 +57,12 @@ footer:
 
 - [Koa CORS - NPM](./koa-cors-npm.md)
 
-### TypeScript [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+## Flow - Static Type Checker for JavaScript
+
+- [Getting Started](./flow/getStarted.md)
+- [Flow TYpes Usage](./flow/usage.md)
+
+## TypeScript [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 - [Configure Compiler](./typeScript/setup.md)
 - [Debugging TypeScript](./typeScript/debug.md)
