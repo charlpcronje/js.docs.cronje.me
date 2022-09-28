@@ -49,6 +49,10 @@ footer:
 01000011 01010010 01001111 01001110 01101010 01100101  00101110  01001101  01000101
 ```
 
+## Some general nice to know JS Features
+
+-  [Creating a hidden object property](hiddenProperty.md)
+
 ## Vue 3 and Nuxt 3
 
 - [Vue 3 and Nuxt 3](./vue/nuxt.md)
