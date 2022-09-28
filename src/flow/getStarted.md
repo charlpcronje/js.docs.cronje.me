@@ -26,19 +26,8 @@ First install `flow-remove-types` with either [Yarn](https://yarnpkg.com/) or [n
 yarn add --dev flow-remove-types
 ```
 
----
-created: 2022-09-27T11:12:41 (UTC +02:00)
-tags: []
-source: https://flow.org/en/docs/install/
-author: 
----
+### Setting up Flow for your project
 
-# Installation | Flow
-
-> ## Excerpt
-> Installing and setting up Flow for a project
-
----
 If you then put all your source files in a `src` directory you can compile them to another directory by running:
 
 ```sh
