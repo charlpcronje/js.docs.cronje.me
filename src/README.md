@@ -51,12 +51,12 @@ footer:
 
 ## Some general nice to know JS Features
 
--  [Creating a hidden object property](hiddenProperty.md)
+-  [Creating a hidden object property](./niceToKnow/hiddenProperty.md)
 
 ## Vue3, Nuxt3, Nuxi Cli
 
 - [Nuxt3, Pinia, Notion API](./vue/nuxt.md)
-- [Nuxt3 Sever Routes, Faker API](.vue/kater.nuxt.cronje.me.md)
+- [Nuxt3 Sever Routes, Faker API](./vue/fakerNuxt.md)
 
 
 ## Koa CORS - NPM
