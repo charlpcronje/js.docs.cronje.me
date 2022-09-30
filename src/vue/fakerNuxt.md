@@ -1,5 +1,3 @@
-title: Nuxt 3 Server and Faker API Starter
-
 ```sh
  +-+-+-+-+ +-+ +-+-+-+-+-+-+ +-+ +-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+
  |N|u|x|t| |3| |S|e|r|v|e|r| |&| |F|a|k|e|r| |A|P|I| |S|t|a|r|t|e|r|
@@ -10,6 +8,8 @@ title: Nuxt 3 Server and Faker API Starter
  01101011  01100101 01110010  01000001  01010000  01001001  01010011 
  01110100  01100001 01110010  01110100  01100101  01110010 
 ```
+
+# Nuxt 3 Server and Faker API Starter
 
 - Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
