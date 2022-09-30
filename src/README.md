@@ -56,7 +56,7 @@ footer:
 ## Vue3, Nuxt3, Nuxi Cli
 
 - [Nuxt3, Pinia, Notion API](./vue/nuxt.md)
-- [Nuxt3, Faker API](.vue/kater.nuxt.cronje.me.md)
+- [Nuxt3 Sever Routes, Faker API](.vue/kater.nuxt.cronje.me.md)
 
 
 ## Koa CORS - NPM
