@@ -53,9 +53,11 @@ footer:
 
 -  [Creating a hidden object property](hiddenProperty.md)
 
-## Vue 3 and Nuxt 3
+## Vue3, Nuxt3, Nuxi Cli
 
-- [Vue 3 and Nuxt 3](./vue/nuxt.md)
+- [Nuxt3, Pinia, Notion API](./vue/nuxt.md)
+- [Nuxt3, Faker API](.vue/kater.nuxt.cronje.me.md)
+
 
 ## Koa CORS - NPM
 
